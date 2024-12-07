@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Daniel!
+# ¡Hola, soy Daniel!
 
 Soy **Full Stack Web Developer** especializado en **Frontend**, apasionado por crear aplicaciones web funcionales, intuitivas, modernas y escalables. Me encanta poder hacer una idea realidad y aprender nuevas tecnologías para seguir mejorando mis habilidades.
 
@@ -9,7 +9,7 @@ Soy **Full Stack Web Developer** especializado en **Frontend**, apasionado por c
 - **Bases de datos:** PostgreSQL, MongoDB.
 - **Herramientas:** Git, GitHub, Figma, Slack, Vercel, Netlify.
 
-## 🧑‍💻 Proyectos Destacados
+## 💻 Proyectos Destacados
 ### [Danzone](https://github.com/pi-rym/PM4FE-CarlosDanielOK)
 Ecommerce de tecnología con funcionalidad completa, incluyendo:
 - Carrito de compras personalizado por usuario.
