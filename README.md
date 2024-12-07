@@ -10,7 +10,7 @@ Soy **Full Stack Web Developer** especializado en **Frontend**, apasionado por c
 - **Herramientas:** Git, GitHub, Figma, Slack, Vercel, Netlify.
 
 ## 💻 Proyectos Destacados
-### [Danzon](https://github.com/pi-rym/PM4FE-CarlosDanielOK)
+### [DANZON](https://github.com/pi-rym/PM4FE-CarlosDanielOK)
 Ecommerce de tecnología con funcionalidad completa, incluyendo:
 - Carrito de compras personalizado por usuario.
 - Autenticación, registro e inicio de sesión de usuarios.
