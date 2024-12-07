@@ -31,5 +31,5 @@ Aplicación para buscar y compartir GIFs ilimitados con integración a redes soc
 
 ## 📫 Contáctame
 - **LinkedIn:** [https://www.linkedin.com/in/carlos-daniel-lazo-1787bb340/)
-- 
+
 ¡Estoy emocionado por conectar contigo y colaborar en proyectos innovadores!
