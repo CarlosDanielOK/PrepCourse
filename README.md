@@ -30,6 +30,7 @@ Aplicación para buscar y compartir GIFs ilimitados con integración a redes soc
 - Estoy buscando un puesto como **Frontend Developer** en modalidad remota o presencial.
 
 ## 📫 Contáctame
-- **LinkedIn:** [https://www.linkedin.com/in/carlos-daniel-lazo-1787bb340/)
+- **LinkedIn:** https://www.linkedin.com/in/carlos-daniel-lazo-1787bb340/
+- **Email:** carlosdaniellazo06@gmail.com
 
 ¡Estoy emocionado por conectar contigo y colaborar en proyectos innovadores!
